@@ -1,5 +1,5 @@
 {
-  "name": "goit-node-rest-api",
+  "name": "backend-water-tracker",
   "type": "module",
   "scripts": {
     "start": "node ./app.js",
@@ -33,5 +33,21 @@
     "jest": "^29.7.0",
     "nodemon": "^3.0.2",
     "supertest": "^6.3.4"
-  }
+  },
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krislv4nk/watertracker-backand-codekartel.git"
+  },
+  "keywords": [
+    "back-end"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krislv4nk/watertracker-backand-codekartel/issues"
+  },
+  "homepage": "https://github.com/Krislv4nk/watertracker-backand-codekartel#readme",
+  "description": ""
 }
