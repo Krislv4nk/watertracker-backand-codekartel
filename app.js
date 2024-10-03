@@ -39,7 +39,7 @@ const startServer = async () => {
     });
 
     app.listen(PORT, () => {
-      console.log(`Server runing on ${PORT}`);
+      console.log(`Server running on ${PORT}`);
     });
   } catch (error) {
     console.error("Connection error", error);
